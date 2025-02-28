@@ -8,7 +8,7 @@
  Plug 'davidhalter/jedi-vim'
  Plug 'preservim/NERDTree'
  Plug 'vim-airline/vim-airline'
- PPlug 'vim-airline/vim-airline-themes'
+ Plug 'vim-airline/vim-airline-themes'
  Plug 'numirias/semshi'
  Plug 'bluz71/vim-nightfly-colors', {'as': 'nightfly'}
  Plug 'rust-lang/rust.vim'
